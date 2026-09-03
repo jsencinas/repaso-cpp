@@ -3,6 +3,7 @@
 *.out
 *.exe
 programa
+main
 # Sistema operativo y editor
 .DS_Store
 .vscode/
