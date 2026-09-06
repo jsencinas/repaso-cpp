@@ -1,4 +1,5 @@
 #include <iostream>
+#pragma once
 
 class Fraccion{
     int num = 1, den = 2;
