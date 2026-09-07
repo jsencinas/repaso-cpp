@@ -1,0 +1,1 @@
+El diagnóstico me pidió hacer todas las sesiones. Es por eso que todo el curso esta en este repositorio.
